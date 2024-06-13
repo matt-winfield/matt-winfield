@@ -7,4 +7,4 @@
 
 [:atom: Atomic Redux](https://github.com/atomic-redux/atomic-redux)
 
-Check out my [Digital Portfolio](https://www.matt-winfield.com)
+Check out my [Digital Portfolio](https://www.matt-winfield.com?utm_source=github)
